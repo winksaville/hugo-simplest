@@ -1,0 +1,5 @@
+<main class="main">
+	{{ range where .Site.Pages "Type" "index" }}
+		{{ .Content }}
+	{{ end }}
+</main>

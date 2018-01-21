@@ -1,0 +1,4 @@
+baseurl = "http://simplest.com"
+metadataformat = "TOML"
+relativeURLs = true
+canonifyURLs = true
